@@ -3,6 +3,8 @@ id: about
 title: About
 ---
 
+I'm a programmer with a Bachelor of Science in Engineering focused in Computer Science from Princeton University. I love working with people and solving problems to make the world a better place :)
+
 You can start your "About" page with an elevator pitch, one or two
 sentences about you! The rest of this page page can
 include a little bit about yourself. Some things you
